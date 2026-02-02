@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webpagina Basis</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="page-container">
+        <header class="main-header">
+            <h1>Welkom op de Website van webcatalogus</h1>
+            <nav class="main-nav">
+                <a href="index.html" class="nav-item">Hoofdscherm</a>
+                <a href="contact.html" class="nav-item">Contact</a>
+            </nav>
+        </header>
+
+            <main class="main-content">
+    <p>Voor vragen kunt u met ons <a href="contact.html">contact</a> opnemen.</p>
+
+    <div class="book-catalog">
+        
+        <article class="book-item">
+            <img src="img/boek1.jpg" alt="Boek titel" class="book-img">
+            <div class="book-details">
+                <h3>Windows 11 voor senioren</h3>
+                <p class="author">Auteur: Victor Peters</p>
+                <p class="price">Prijs: &euro; 29.99</p>
+                <p class="summary">Wil je moeiteloos werken met Windows 11 op je computer, laptop of tablet? Met dit toegankelijke en praktische boek leer je stap voor stap hoe je alles uit het besturingssysteem haalt, zonder gedoe.
+Auteur Victor Peters laat je op een heldere manier kennismaken met het vernieuwde startmenu, het beheren van documenten, het onderhouden van je computer en veilig surfen op internet. Dankzij de duidelijke uitleg en vele afbeeldingen krijg je Windows 11 in no-time onder de knie. Dit boek is speciaal geschreven voor iedereen die al enige ervaring heeft met een eerdere versie van Windows, een tablet of smartphone en nu de overstap maakt naar Windows 11.
+Grote letters en duidelijke schermafbeeldingen zorgen voor een prettige leeservaring. Werk sneller, slimmer en met meer plezier met Windows 11!
+Stap-voor-stap handleiding om zonder moeite met Windows 11 aan de slag te gaan.
+Leer werken met het nieuwe startmenu, instellingen en internet.
+Ideaal voor senioren en iedereen die een toegankelijke Windows 11-gids zoekt.
+</p>
+            </div>
+        </article>
+        <article class="book-item">
+            <img src="img/book2.jpg" alt="Boek titel" class="book-img">
+            <div class="book-details">
+                <h4>3D-tekenen met SketchUp, 4e editie</h4>
+                <p class="äuthor">Marian van Olst</p>
+                <p class="price">Prijs: &euro; 25.95</p>
+                <p class="summary">SketchUp is een 3D-tekenprogramma dat populair is bij architecten en interieurontwerpers en -stylisten die een snel en gemakkelijk alternatief zoeken voor kostbare CAD-tekensoftware, maar toch behoefte hebben aan een veelzijdig en professioneel 3D-tekenprogramma.
+Dit boek is een praktische gids voor amateurs, professionals en studenten die willen leren hoe je 3D-ontwerpen met SketchUp maakt. Je maakt eerst kennis met de menus en de gereedschappen en gaat vervolgens stap voor stap aan de slag met het opzetten van een 3D-tekening. Het boek bevat veel aansprekende voorbeelden, bijvoorbeeld van interieurontwerpen. Het is geschikt voor gebruikers van SketchUp Make 2017 en SketchUp Pro, en is gebaseerd op versie SketchUp 2021.
+Deze vierde editie behandelt naast de basis van SketchUp ook de nieuwe onderdelen die aan versie 2021 zijn toegevoegd, zoals dynamische componenten. Het bevat bovendien een heel hoofdstuk over LayOut, informatie over Live Components, een uitgebreide workflow met Tags en Outliner en een overzicht van rendersoftware.
+Interieurontwerper Marian van Olst verzorgt interieurprojecten voor diverse opdrachtgevers. Ze heeft al ruim tien jaar ervaring in het geven van SketchUp-cursussen; op sketchupplaza.nl staan cursusdata, blogs en videotutorials over SketchUp.
+</p>
+
+            </div>
+        </article>
+            <article class="book-item">
+            <img src="img/book3.jpg" alt="Boek titel" class="book-img">
+            <div class="book-details">
+                <h5>The Programmer - User Interface</h5>
+                <p class="äuthor">Antoni Dol</p>
+                <p class="price">Prijs: &euro;  19.95</p>
+                <p class="summary">Eigenzinnige programmeurs en het raakvlak met de eigenaardigheden van echte eindgebruikers. PUI is een variant op GUI. Een Graphical User Interface, ook wel scherm wordt genoemd. Het is het raakvlak tussen een eindgebruiker en een computersysteem. Dat is de plek waar de interactie tussen een eindgebruiker en een software-applicatie plaatsvindt. De plek waar je de computer en de programma’s bestuurt. Bij PUI is de G van Graphical vervangen voor de P van Programmer. Nu symboliseert de afkorting het raakvlak tussen de eindgebruikers en programmeurs: the Programmer | User Interface. Dat is waar PUI voor staat. Onder deze noemer schreef ik ruim tien jaar lang columns voor interne en externe publicaties. Het is het thema achter alle columns over Design, Het designproces, User Research, Interaction Design, User Interface Design, Visual Design, Usability en de columns over boeken en films.
+        </article>
+
+       </article>
+            <article class="book-item">
+            <img src="img/book4.jpg" alt="Boek titel" class="book-img">
+            <div class="book-details">
+                <h6>Photoshop CC voor Lightroom fotografen</h6>
+                <p class="äuthor">Johan W. Elzenga</p>
+                <p class="price">Prijs: &euro;  22.50</p>
+                <p class="summary">'Photoshop CC voor Lightroom-fotografen' is een praktische gids om je wegwijs te maken in het werken met Photoshop CC in de dagelijkse praktijk. Het is bovendien een boek waarbij er vanuit wordt gegaan dat je Adobe (Photoshop) Lightroom gebruikt als de basis voor je fotografie. Daarin beheer je de foto's, en doe je de 'gewone' standaard bewerkingen van de raw-bestanden. Photoshop is dan bedoeld voor het moment dat je dingen wilt doen die in Lightroom niet meer goed mogelijk zijn. De nadruk ligt in dit boek op beeldbewerking, dus het bewerken van bestaande beelden (foto's). Natuurlijk zal je ook geen Photoshop-specialist zijn na het lezen van dit boek, maar dat is ook helemaal niet nodig. Om auto te kunnen rijden, hoef je ook geen monteursopleiding te volgen. Om binnen deze vergelijking te blijven: dit boek is bedoeld om je 'rijbewijs Photoshop CC' te halen, niet je 'Photoshop CC-monteursdiploma'.
+        </article>
+        <article class="book-item">
+            <img src="img/book5.jpg" alt="Boek titel" class="book-img">
+            <div class="book-details">
+                <h7>Handboek PowerPoint 2021</h7>
+                <p class="äuthor">Ronald Smit</p>
+                <p class="price">Prijs: &euro;  34.99</p>
+                <p class="summary">PowerPoint 2021 is het meest gebruikte programma om presentaties samen te stellen. Het is onderdeel van zowel Microsoft Office 2021 als Microsoft 365. U bedient PowerPoint met behulp van het dynamische lint met opdrachtknoppen en functies. In de nieuwe versie van PowerPoint zijn diverse functies duidelijker en werken ze nog beter, nog intuïtiever. Het Handboek PowerPoint 2021 helpt u snel op weg en biedt oefeningen, tips en voorbeelden uit de praktijk.
+
+    </div>
+</main>
+
+        </main>
+
+        <footer class="main-footer">
+            <p>&copy; 2024 Boekenwinkel Sunshine </p>
+        </footer>
+    </div>
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+</body>
+</html>
